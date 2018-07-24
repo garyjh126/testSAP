@@ -1,0 +1,16 @@
+{
+	"mRoot": [
+		{
+			"dkey": "1",
+			"dtext": "Attendant"
+		},
+		{
+			"dkey": "2",
+			"dtext": "Organiser"
+		},
+		{
+			"dkey": "3",
+			"dtext": "Speaker"
+		}
+	]
+}
